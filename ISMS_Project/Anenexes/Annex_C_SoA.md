@@ -1,4 +1,4 @@
-# Annex C – Statement of Applicability (SoA)
+# Annex C – Statement of Applicability (SoA) (sample)
 
 This SoA template lists Annex A controls, applicability, justification and evidence references.
 
