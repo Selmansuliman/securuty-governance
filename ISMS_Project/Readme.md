@@ -1,6 +1,6 @@
 # Complete ISMS Project (ISO/IEC 27001:2022)
 
-A professional, GitHub-ready Information Security Management System (ISMS) repository.
+A professional, Information Security Management System (ISMS) repository.
 Includes:
 - ISMS methodology (docs/)
 - Fully written policies (policies/)
