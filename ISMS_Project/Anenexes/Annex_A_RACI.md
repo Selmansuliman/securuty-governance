@@ -1,4 +1,4 @@
-# Annex A – RACI Matrix
+# Annex A – RACI Matrix (sample)
 
 Policy | Responsible | Accountable | Consulted | Informed
 ---|---|---|---|---
