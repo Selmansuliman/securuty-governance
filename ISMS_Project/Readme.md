@@ -1,3 +1,17 @@
+# Complete ISMS Project (ISO/IEC 27001:2022)
+
+A professional, GitHub-ready Information Security Management System (ISMS) repository.
+Includes:
+- ISMS methodology (docs/)
+- Fully written policies (policies/)
+- Annexes: RACI, ISO mapping, Statement of Applicability (annexes/)
+- Matrices: Risk Register, Compliance & Controls applicability (matrices/)
+- Reusable templates (templates/)
+- Diagrams and governance notes (diagrams/)
+
+This project is intended as a portfolio item and as a deployable template for organizations preparing for ISO/IEC 27001:2022 compliance or certification.
+
+
 ISMS_Project/
 ├── README.md
 ├── docs/
