@@ -1,0 +1,8 @@
+Governance Model:
+Board / Executive Sponsor
+   └─ CISO (Sponsor) — accountable
+       └─ ISMS Manager — responsible for day-to-day
+           ├─ Policy Owners (per policy)
+           ├─ Control Owners
+           └─ IR Team, IAM Team, IT Ops, BCM Team
+Information Security Steering Committee (ISSC) provides oversight and approval.
