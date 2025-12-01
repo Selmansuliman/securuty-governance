@@ -11,7 +11,7 @@ Includes:
 
 This project is intended as a portfolio item and as a deployable template for organizations preparing for ISO/IEC 27001:2022 compliance or certification.
 
-
+```
 ISMS_Project/
 ├── README.md
 ├── docs/
@@ -43,4 +43,4 @@ ISMS_Project/
 └── diagrams/
     ├── ISMS_Lifecycle.txt
     └── Governance_Model.txt
-
+```
