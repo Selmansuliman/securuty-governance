@@ -1,4 +1,4 @@
-# Annex B – ISO Mapping Matrix
+# Annex B – ISO Mapping Matrix (sample)
 
 Policy | ISO Clauses | Annex A Controls
 ---|---|---
