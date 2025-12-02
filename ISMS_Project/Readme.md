@@ -15,7 +15,10 @@ This project is intended as a portfolio item and as a deployable template for or
 ISMS_Project/
 ├── README.md
 ├── docs/
-│   └── ISMS_Methodology.md
+│     ├──ISMS_Methodology.md
+│     ├── 
+│     ├──
+
 ├── policies/
 │   ├── Information_Security_Policy.md
 │   ├── Access_Control_Policy.md
