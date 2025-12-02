@@ -15,10 +15,9 @@ This project is intended as a portfolio item and as a deployable template for or
 ISMS_Project/
 ├── README.md
 ├── docs/
-│     ├──ISMS_Methodology.md
-│     ├── 
-│     ├──
-
+│   ├──ISMS_Methodology
+│   ├── Information_Security_Policy_Methodology
+│   ├──ISO 27001 playbook
 ├── policies/
 │   ├── Information_Security_Policy.md
 │   ├── Access_Control_Policy.md
