@@ -3,7 +3,7 @@
 A professional, Information Security Management System (ISMS) repository.
 Includes:
 - ISMS methodology (docs/)
-- Fully written policies (policies/)
+- written policies (examples) (policies/)
 - Annexes: RACI, ISO mapping, Statement of Applicability (annexes/)
 - Matrices: Risk Register, Compliance & Controls applicability (matrices/)
 - Reusable templates (templates/)
