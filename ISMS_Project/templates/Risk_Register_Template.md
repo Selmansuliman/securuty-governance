@@ -10,48 +10,44 @@ By maintaining a risk register, the organization ensures that security decisions
 
 A Risk Register is essential because it:
 
-Supports Informed Decision-Making
+- Supports Informed Decision-Making
 It allows management to prioritize risks based on likelihood and impact, ensuring resources are allocated efficiently.
 
-Demonstrates Compliance with ISO/IEC 27001
+- Demonstrates Compliance with ISO/IEC 27001
 Risk identification, assessment, and treatment are core requirements of the standard. The register provides documented evidence for auditors.
 
-Improves Communication Across Departments
+- Improves Communication Across Departments
 It gives all stakeholders a unified view of current risks, owners, and mitigation plans.
 
-Ensures Accountability and Ownership
+- Ensures Accountability and Ownership
 Each risk is assigned a specific owner responsible for monitoring, mitigation, and periodic review.
 
-Enhances Organizational Resilience
+- Enhances Organizational Resilience
 By tracking risks continuously, the organization can proactively respond to changes and emerging threats.
-
-# Implementation of Item 4: Assigned Responsibilities (Ownership)
-
-Below is a professionally implemented version of Item 4 within the Risk Register context:
 
 # Risk Ownership and Responsibilities
 
 Each identified risk must have a clearly assigned Risk Owner who is responsible for:
 
-Monitoring the risk and reporting any significant changes.
+- Monitoring the risk and reporting any significant changes.
 
-Ensuring mitigation actions are implemented in a timely manner.
+- Ensuring mitigation actions are implemented in a timely manner.
 
-Coordinating with relevant departments to manage risk treatment.
+- Coordinating with relevant departments to manage risk treatment.
 
-Updating the Risk Register during each review cycle.
+- Updating the Risk Register during each review cycle.
 
-Ensuring compliance with organizational policies and regulatory requirements.
+- Ensuring compliance with organizational policies and regulatory requirements.
 
 # Risk Owner Selection Criteria
 
 A Risk Owner should be:
 
-A manager with authority over the affected asset or process.
+- A manager with authority over the affected asset or process.
 
-Capable of allocating resources for risk treatment.
+- Capable of allocating resources for risk treatment.
 
-Familiar with the operational and security implications of the risk
+- Familiar with the operational and security implications of the risk
 
 # Risk Register (Example)
 
