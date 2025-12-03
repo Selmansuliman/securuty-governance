@@ -53,7 +53,7 @@ Capable of allocating resources for risk treatment.
 
 Familiar with the operational and security implications of the risk
 
-# Risk Register
+# Risk Register (Example)
 
 ID | Risk | Asset | Likelihood | Impact | Rating | Controls | Owner | Review Date | Status
 ---|------|--------|-----------:|--------:|--------|----------|--------|-------------:|--------
