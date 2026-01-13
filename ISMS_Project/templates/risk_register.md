@@ -17,17 +17,11 @@
 | Risk ID | Asset | Threat Source | Threat Event | Vulnerability | Existing Controls | Likelihood | Impact | Risk Level | Risk Owner | Treatment Option | Residual Risk | Status |
 |--------|-------|---------------|--------------|---------------|-------------------|------------|--------|------------|------------|------------------|---------------|--------|
 | R-01 | Active Directory | External Attacker | Credential compromise via phishing | Weak MFA enforcement for admins | MFA for users, password policy | High | High | High | CISO | Mitigate: Enforce MFA + PAM | Moderate | Open |
-
 | R-02 | Cloud Admin Accounts | Insider (Malicious) | Abuse of excessive privileges | Over-privileged IAM roles | IAM RBAC, logging | Moderate | High | High | Head of Cloud | Mitigate: Least Privilege + JIT | Moderate | In Progress |
-
 | R-03 | SOC SIEM Platform | Process Failure | Delayed detection of attack | Poor use-case coverage | SIEM deployed, basic alerts | Moderate | Moderate | Moderate | SOC Manager | Mitigate: Tune use cases | Low | Open |
-
 | R-04 | Root CA Private Key | Advanced Threat Actor | Key compromise | Insufficient ceremony oversight | HSM, dual control | Low | Very High | High | PKI Manager | Avoid: Strengthen ceremonies | Low | Open |
-
 | R-05 | Endpoint Fleet | Ransomware Group | Malware execution | Unpatched endpoints | EDR, AV | High | Moderate | High | IT Security | Mitigate: Patch management | Moderate | Open |
-
 | R-06 | Third-Party Vendor | Supply Chain | Breach via vendor access | Weak third-party security review | NDA, access restriction | Moderate | High | High | Vendor Mgmt | Transfer: Contractual clauses | Moderate | Open |
-
 | R-07 | Audit Logs | Insider (Negligent) | Log tampering | Logs not immutable | Central logging | Low | High | Moderate | Security Ops | Mitigate: WORM storage | Low | Closed |
 
 ---
