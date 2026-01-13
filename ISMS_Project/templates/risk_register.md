@@ -16,7 +16,6 @@
 
 | Risk ID | Asset | Threat Source | Threat Event | Vulnerability | Existing Controls | Likelihood | Impact | Risk Level | Risk Owner | Treatment Option | Residual Risk | Status |
 |--------|-------|---------------|--------------|---------------|-------------------|------------|--------|------------|------------|------------------|---------------|--------|
-
 | R-01 | Active Directory | External Attacker | Credential compromise via phishing | Weak MFA enforcement for admins | MFA for users, password policy | High | High | High | CISO | Mitigate: Enforce MFA + PAM | Moderate | Open |
 
 | R-02 | Cloud Admin Accounts | Insider (Malicious) | Abuse of excessive privileges | Over-privileged IAM roles | IAM RBAC, logging | Moderate | High | High | Head of Cloud | Mitigate: Least Privilege + JIT | Moderate | In Progress |
