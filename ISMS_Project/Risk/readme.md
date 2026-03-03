@@ -1,6 +1,6 @@
-# ISO-Aligned Risk Assessment & Heatmap Tool
+# ISO-Aligned Risk Assessment & Managment Tool
 
-## أداة تقييم المخاطر والـ Heatmap المتوافقة مع معايير ISO
+
 
 ---
 
@@ -50,6 +50,7 @@ No macros. No external dependencies. Fully transparent logic.
 * Defensible and transparent calculation model
 * Suitable for board-level reporting
 * Supports treatment planning and escalation logic
+* Ability to Adopt with any Risk Criteria
 
 ---
 
@@ -184,9 +185,9 @@ The model is conceptually aligned with:
 
 المنهجية متوافقة من حيث الإطار المفاهيمي مع:
 
-* ISO 31000 لإدارة المخاطر
-* ISO/IEC 27005 لإدارة مخاطر أمن المعلومات
-* NIST SP 800-30
+* لإدارة المخاطر ISO 31000
+* لإدارة مخاطر أمن المعلومات ISO/IEC 27005   
+* منهجيات NIST SP 800-30
 * أفضل ممارسات إدارة المخاطر المؤسسية
 
 ---
