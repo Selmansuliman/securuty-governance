@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains a professional, Excel-based Risk Assessment & Heatmap Tool designed for structured, governance-ready risk evaluation.
+This repository contains a professional, Excel-based Risk Assessment Tool designed for structured, governance-ready risk evaluation.
 
 The tool follows a 5×5 Likelihood × Impact matrix methodology and is aligned with internationally recognized risk management standards. It is built to support cybersecurity programs, ISMS implementations, and enterprise risk governance frameworks.
 
@@ -113,7 +113,7 @@ The model is conceptually aligned with:
 
 ## نظرة عامة
 
-يحتوي هذا المستودع على أداة احترافية لتقييم المخاطر ورسم خريطة الحرارة (Heatmap) مبنية باستخدام Excel، ومصممة لتوفير منهجية منظمة وقابلة للاعتماد في بيئات الحوكمة المؤسسية.
+يحتوي هذا المستودع على أداة احترافية لتقييم المخاطر ورسم مخطط (Heatmap) مبنية باستخدام Excel، ومصممة لتوفير منهجية منظمة وقابلة للاعتماد في بيئات الحوكمة المؤسسية.
 
 تعتمد الأداة على مصفوفة 5×5 (الاحتمالية × الأثر) ومتوافقة من حيث المنهجية مع المعايير الدولية لإدارة المخاطر، ومناسبة لبرامج الأمن السيبراني وأنظمة إدارة أمن المعلومات وإدارة المخاطر المؤسسية.
 
