@@ -10,6 +10,8 @@ The file is read-only copy, if you need your own copy send me an email.
 This repository contains a professional Excel-based Risk Assessment & managment Tool With Asset Based Approach, designed for structured, governance-ready risk evaluation.
 The tool follows a 5×5 Likelihood × Impact matrix methodology and is aligned with internationally recognized risk management standards. It is built to support cybersecurity programs, ISMS implementations, and enterprise risk governance frameworks.
 
+---
+
 ## use it to:Address, Analize, Assess, Control and Manage Risks.
 No macros. No external dependencies. Fully transparent logic.
 
