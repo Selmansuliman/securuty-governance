@@ -12,7 +12,7 @@ The tool follows a 5×5 Likelihood × Impact matrix methodology and is aligned w
 
 ---
 
-## use it to : Address, Analize, Assess, Control and Manage Risks.
+## Use it to: Address, Analize, Assess, Control and Manage Risks.
 No macros. No external dependencies. Fully transparent logic.
 
 
