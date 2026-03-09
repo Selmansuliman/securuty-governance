@@ -215,10 +215,8 @@ The model is conceptually aligned with:
 
 </div>
 
-© 2026 – RAST Professional Risk Governance Tool   
-Designed for structured, defensible, and executive-ready risk management.
-
-www.linkedin.com/in/selman-suliman 
-
+© 2026 – EXRAST Professional Risk Governance Tool   
+Designed for structured, defensible, and executive-ready risk management.     
+www.linkedin.com/in/selman-suliman          
 sulimanselman31@gmail.com
 
