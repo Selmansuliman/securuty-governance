@@ -6,8 +6,7 @@
 
 ## Overview
 
-This repository contains a professional, Excel-based Risk Assessment Tool designed for structured, governance-ready risk evaluation.
-
+This repository contains a professional, Excel-based Risk Assessment & managment Tool With Asset Based Approach, designed for structured, governance-ready risk evaluation.
 The tool follows a 5×5 Likelihood × Impact matrix methodology and is aligned with internationally recognized risk management standards. It is built to support cybersecurity programs, ISMS implementations, and enterprise risk governance frameworks.
 
 No macros. No external dependencies. Fully transparent logic.
@@ -40,7 +39,7 @@ No macros. No external dependencies. Fully transparent logic.
 
   * X-axis: Impact
   * Y-axis: Likelihood
-* Clear visual clustering for decision-making
+  * Clear visual clustering for decision-making
 
 ### 4. Governance & Audit Readiness
 
@@ -210,5 +209,5 @@ The model is conceptually aligned with:
 
 </div>
 
-© 2026 – Professional Risk Governance Tool  
+© 2026 – Professional Risk Governance Tool  RAST
 Designed for structured, defensible, and executive-ready risk management.
