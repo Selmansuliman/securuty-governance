@@ -1,5 +1,6 @@
 # ISO-Aligned Risk Assessment & Managment Tool
-
+## Note:
+The file is read-only copy, if you need your own copy send me an email.
 ---
 
 # 🇬🇧 
@@ -8,8 +9,8 @@
 
 This repository contains a professional, Excel-based Risk Assessment & managment Tool With Asset Based Approach, designed for structured, governance-ready risk evaluation.
 The tool follows a 5×5 Likelihood × Impact matrix methodology and is aligned with internationally recognized risk management standards. It is built to support cybersecurity programs, ISMS implementations, and enterprise risk governance frameworks.
-
 No macros. No external dependencies. Fully transparent logic.
+
 
 ---
 
@@ -105,6 +106,7 @@ The model is conceptually aligned with:
 * Internal Audit Teams
 
 ---
+
 
 # 🇸🇦 النسخة العربية
 
@@ -209,5 +211,8 @@ The model is conceptually aligned with:
 
 </div>
 
-© 2026 – Professional Risk Governance Tool  RAST
+© 2026 – RAST Professional Risk Governance Tool 
 Designed for structured, defensible, and executive-ready risk management.
+www.linkedin.com/in/selman-suliman
+sulimanselman31@gmail.com
+
